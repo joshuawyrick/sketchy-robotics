@@ -1,0 +1,316 @@
+{
+  "/es/service-areas/bakersfield-ca/": {
+    "title": "Un toque de Bakersfield. Mucha personalidad.",
+    "intro": "Desde una boda en un museo hasta una celebración familiar, nuestra ciudad inspira retratos con personalidad. Cuéntanos dónde celebras y planificaremos nuestros robots según el espacio.",
+    "places": [
+      {
+        "name": "Kern County Museum",
+        "url": "https://kerncountymuseum.org/weddings-events-venue-rentals/",
+        "body": "El museo alquila espacios históricos para bodas y eventos. Para una celebración aquí, exploraríamos retratos de inspiración vintage y una estación que deje libres los pasos de invitados."
+      },
+      {
+        "name": "CALM Zoo",
+        "url": "https://calmzoo.org/events/",
+        "body": "CALM es un destino familiar conocido de Bakersfield con eventos comunitarios y de temporada. Un recuerdo inspirado en la fauna podría encajar en una reunión familiar; cualquier activación necesitaría aprobación del zoológico."
+      },
+      {
+        "name": "The Willows at CALM",
+        "url": "https://willowsatcalm.org/weddings/",
+        "body": "The Willows ofrece bodas dentro de CALM. Si está entre tus opciones, pregunta cómo integrar retratos en el horario de recepción, sujeto a aprobación del recinto."
+      }
+    ]
+  },
+  "/es/service-areas/paso-robles-ca/": {
+    "title": "Celebraciones entre viñedos, con un toque Sketchy.",
+    "intro": "Paso puede significar una recepción en un viñedo o una reunión concurrida en el recinto ferial. Son experiencias distintas; empezamos por el lugar y la circulación de invitados.",
+    "places": [
+      {
+        "name": "CASS Winery",
+        "url": "https://www.casswines.com/private-events/",
+        "body": "CASS ofrece eventos privados en la región vinícola de Paso Robles. Podemos revisar diseños sencillos de inspiración vinícola y un área protegida, apartada del servicio de comida y bebidas."
+      },
+      {
+        "name": "Paso Robles Event Center & California Mid-State Fair",
+        "url": "https://www.midstatefair.com/event-center/",
+        "body": "El Event Center alberga la California Mid-State Fair y ofrece espacios para eventos. Una activación ferial requiere fila clara, plan diario realista y acceso de proveedores aprobado."
+      },
+      {
+        "name": "Firestone Walker Invitational Beer Festival",
+        "url": "https://www.firestonewalker.com/event/invitational-beer-festival/",
+        "body": "Firestone Walker anuncia su Invitational Beer Festival en el Paso Robles Event Center. Para una fiesta de cervecería o activación aprobada, podríamos explorar retratos sencillos inspirados en cerveza artesanal y una recogida que no interrumpa la degustación."
+      }
+    ]
+  },
+  "/es/service-areas/san-luis-obispo-ca/": {
+    "title": "Muy SLO. Un poco inesperado.",
+    "intro": "Las celebraciones de SLO van desde el inconfundible Madonna Inn hasta una destilería. Lleva esa personalidad al retrato manteniendo líneas limpias y sencillas.",
+    "places": [
+      {
+        "name": "Madonna Inn",
+        "url": "https://www.madonnainn.com/weddings-events",
+        "body": "Madonna Inn celebra bodas y eventos en San Luis Obispo. Planificaríamos la estación según la recepción para observar nuestros robots sin congestionar la pista de baile."
+      },
+      {
+        "name": "Rod & Hammer Rock",
+        "url": "https://rhgatherings.com/therock",
+        "body": "Rod & Hammer Rock ofrece varios espacios en SLO. Retratos inspirados en la música podrían iniciar conversaciones en una reunión privada, con diseño y ubicación acordados previamente."
+      }
+    ]
+  },
+  "/es/service-areas/visalia-ca/": {
+    "title": "De cumpleaños en museos a grandes celebraciones.",
+    "intro": "Visalia ofrece diversión familiar interactiva y reuniones más amplias. Adaptamos los dibujos a los asistentes, su tiempo disponible y el recuerdo que desean llevarse.",
+    "places": [
+      {
+        "name": "ImagineU Children’s Museum",
+        "url": "https://www.imagineumuseum.org/birthdayparties",
+        "body": "ImagineU ofrece cumpleaños en Visalia. Para una celebración en museo, considera retratos de exploradores o artistas, fotos guiadas por padres y un área de dibujo separada de los juegos activos."
+      },
+      {
+        "name": "Visalia Convention Center",
+        "url": "https://www.visalia.gov/199/Visalia-Convention-Center",
+        "body": "El centro de convenciones de la ciudad acoge eventos grandes. Para una activación propuesta, revisaríamos planos, requisitos de expositores y recogida de retratos con tu equipo."
+      }
+    ]
+  },
+  "/es/service-areas/tulare-ca/": {
+    "title": "Las reuniones de Tulare merecen un recuerdo personal.",
+    "intro": "Agricultura, comunidad y negocios se reúnen en Tulare. Sea una fiesta privada o una experiencia de expositor, el plan de retratos debe ajustarse al ritmo del día.",
+    "places": [
+      {
+        "name": "International Agri-Center",
+        "url": "https://events.internationalagricenter.com/",
+        "body": "International Agri-Center ofrece instalaciones para eventos externos además de su programación. Indica espacio reservado y horarios para revisar estación y espera adecuadas."
+      },
+      {
+        "name": "World Ag Expo",
+        "url": "https://www.worldagexpo.com/",
+        "body": "World Ag Expo se celebra en International Agri-Center, Tulare. Para una activación de expositor, podemos explorar retratos agrícolas; participar y usar el estand requiere aprobación del organizador."
+      }
+    ]
+  },
+  "/es/service-areas/tehachapi-ca/": {
+    "title": "Celebraciones de montaña con carácter.",
+    "intro": "Una boda en viñedo y un festival comunitario necesitan montajes distintos. En Tehachapi coordinaríamos protección, superficies niveladas y un lugar cómodo para observar.",
+    "places": [
+      {
+        "name": "Oak & Vine Weddings",
+        "url": "https://www.oakandvinewedding.com/",
+        "body": "Oak & Vine ofrece bodas en un viñedo y granero de Tehachapi. Un motivo sencillo de montaña o viñedo puede personalizar el recuerdo sin añadir complejidad innecesaria."
+      },
+      {
+        "name": "Tehachapi Mountain Festival",
+        "url": "https://tehachapimountainfestival.com/",
+        "body": "Mountain Festival es una celebración comunitaria reconocida de Tehachapi. Para una activación autorizada, planificaríamos incorporación a la fila y recogida sin frenar el evento."
+      }
+    ]
+  },
+  "/es/service-areas/fresno-ca/": {
+    "title": "Diversión familiar en un escenario de eventos más amplio.",
+    "intro": "Las celebraciones de Fresno van de cumpleaños en zoológicos a bodas en jardines. Podemos convertir el entorno en una idea de retrato y confirmar detalles con tu organizador.",
+    "places": [
+      {
+        "name": "Fresno Chaffee Zoo",
+        "url": "https://fcz.org/events/",
+        "body": "Fresno Chaffee Zoo ofrece cumpleaños y eventos privados. Los retratos animales pueden complementar la fiesta, sujetos a reglas y aprobación del zoológico para entretenimiento externo."
+      },
+      {
+        "name": "Wolf Lakes Park — nearby Sanger",
+        "url": "https://www.wolflakespark.com/weddings-receptions",
+        "body": "Wolf Lakes Park es un recinto de bodas y recepciones en Sanger que atiende la región de Fresno. Para fiestas junto al lago o jardín, preguntaríamos por superficie nivelada, protección y horarios."
+      }
+    ]
+  },
+  "/es/service-areas/clovis-ca/": {
+    "title": "Una celebración en Clovis con aire del Oeste.",
+    "intro": "Clovis inspira recuerdos del Oeste, mientras los recintos de bodas cercanos ofrecen otro ritmo. Adaptamos el concepto a tu ocasión.",
+    "places": [
+      {
+        "name": "Clovis Rodeo",
+        "body": "Clovis Rodeo es un evento local emblemático. Para una experiencia de patrocinador o vendedor autorizada por separado, los retratos sencillos del Oeste podrían ofrecer un recuerdo personal.",
+        "url": "https://www.clovisrodeo.com/"
+      },
+      {
+        "name": "Wolf Lakes Park — nearby Sanger",
+        "url": "https://www.wolflakespark.com/",
+        "body": "Las parejas que buscan cerca de Clovis también pueden considerar Wolf Lakes Park en Sanger. Si reservas allí, comparte el horario para revisar cuándo encajarían los retratos, previa aprobación."
+      }
+    ]
+  },
+  "/es/service-areas/santa-maria-ca/": {
+    "title": "Un poco de Costa Central. Un poco de vaqueros.",
+    "intro": "Santa Maria tiene un estilo propio, desde reuniones en hoteles históricos hasta tradiciones de rodeo. El retrato puede reflejar ese carácter sin volverse demasiado elaborado.",
+    "places": [
+      {
+        "name": "Historic Santa Maria Inn",
+        "url": "https://santamariainn.com/weddings/",
+        "body": "Santa Maria Inn celebra bodas y quinceañeras. Podemos revisar retratos para la recepción y coordinar espacio, electricidad y horario con tu organizador."
+      },
+      {
+        "name": "Santa Maria Elks Rodeo & Parade",
+        "url": "https://www.elksrec.com/",
+        "body": "Elks Rodeo and Parade son tradiciones reconocidas de Santa Maria. Los recuerdos del Oeste pueden explorarse para una activación autorizada o fiesta independiente; no implicamos participar en el evento."
+      }
+    ]
+  },
+  "/es/service-areas/lancaster-ca/": {
+    "title": "Gran energía de Antelope Valley. Pequeños recuerdos personales.",
+    "intro": "Lancaster incluye el recinto ferial AV y California Poppy Festival. Para público comunitario o fiestas privadas, planificamos retratos según la circulación real.",
+    "places": [
+      {
+        "name": "AV Fair & Event Center",
+        "url": "https://avfair.com/",
+        "body": "AV Fair & Event Center está en Lancaster. Si has reservado allí, envía el espacio asignado y requisitos del organizador para revisar el montaje antes de proponer una activación."
+      },
+      {
+        "name": "California Poppy Festival",
+        "url": "https://avfair.com/california-poppy-festival/",
+        "body": "California Poppy Festival se celebra en AV Fair & Event Center. Una amapola sencilla podría inspirar un recuerdo local; participar en el festival requiere aceptación del organizador."
+      }
+    ]
+  },
+  "/es/service-areas/palmdale-ca/": {
+    "title": "De mesas de recepción a aventuras de cumpleaños.",
+    "intro": "Palmdale ofrece formas muy distintas de celebrar. Nuestros robots necesitan un área seca y estable, por lo que el recinto y espacio exactos importan tanto como el tema.",
+    "places": [
+      {
+        "name": "Rancho Vista Golf Club",
+        "url": "https://www.ranchovistagolfclub.com/weddings/",
+        "body": "Rancho Vista Golf Club ofrece bodas en Palmdale. Podemos explorar una estación compatible con cena, discursos y baile, con ubicación aprobada por el recinto."
+      },
+      {
+        "name": "DryTown Water Park",
+        "url": "https://www.drytownwaterpark.com/p/getconnected/rentals/party-packages",
+        "body": "DryTown anuncia paquetes de fiesta durante su temporada. Antes de añadir retratos, confirma permiso de proveedores externos y zona seca lejos de piscinas y salpicaduras; la entrada al parque no incluye nuestro servicio."
+      }
+    ]
+  },
+  "/es/service-areas/santa-clarita-ca/": {
+    "title": "El encanto de Newhall. Algo nuevo de qué hablar.",
+    "intro": "Santa Clarita combina recepciones modernas y diversión del Oeste. Un recuerdo personal a bolígrafo puede inspirarse en tu ocasión.",
+    "places": [
+      {
+        "name": "Hart & Main",
+        "url": "https://hartandmain.com/",
+        "body": "Hart & Main es un recinto de bodas y eventos en Downtown Newhall con opciones interiores y exteriores. Coordinaríamos estación y distribución con tu organizador."
+      },
+      {
+        "name": "Santa Clarita Cowboy Festival",
+        "url": "https://cowboyfestival.org/",
+        "body": "Cowboy Festival lleva entretenimiento del Oeste a Hart Park, en Old Town Newhall. Podemos revisar retratos sencillos de vaqueros para una activación autorizada por separado o una fiesta privada temática."
+      }
+    ]
+  },
+  "/es/service-areas/ventura-ca/": {
+    "title": "Celebraciones costeras con un final personal.",
+    "intro": "Ventura puede ser una reunión en jardín o un evento ferial animado. Convertimos el entorno en un recuerdo mientras planificamos protección, electricidad y recogida clara.",
+    "places": [
+      {
+        "name": "Ventura Botanical Gardens",
+        "body": "Los jardines ofrecen espacios para bodas y otros eventos. Un detalle botánico podría encajar; revisaríamos con el recinto la ubicación exacta, accesible y nivelada antes de confirmar el servicio.",
+        "url": "https://venturabotanicalgardens.org/plan-your-event/"
+      },
+      {
+        "name": "California Strawberry Festival",
+        "body": "California Strawberry Festival se celebra en Ventura County Fairgrounds. Un recuerdo de fresas es una posibilidad para una activación aprobada; consulta la web oficial para detalles actuales.",
+        "url": "https://castrawberryfestival.org/"
+      }
+    ]
+  },
+  "/es/service-areas/los-angeles-ca/": {
+    "title": "Dale más carácter a una reunión en LA.",
+    "intro": "Los museos de Los Angeles ofrecen escenarios distintivos. Podemos explorar retratos que complementen el evento con una estación práctica y discreta.",
+    "places": [
+      {
+        "name": "Natural History Museum of Los Angeles County",
+        "url": "https://nhmlac.org/host-event/private-events-nhm",
+        "body": "El museo de Exposition Park acoge bodas, reuniones empresariales y otros eventos privados. Un retrato de explorador podría encajar, sujeto a revisión artística y aprobación del recinto."
+      },
+      {
+        "name": "La Brea Tar Pits",
+        "url": "https://live-tarpits.nhmlac.org/host-event/private-events-la-brea-tar-pits",
+        "body": "El museo de La Brea Tar Pits ofrece eventos privados en Miracle Mile. Para una recepción propuesta, coordinaríamos ubicación, montaje y circulación con el equipo."
+      }
+    ]
+  },
+  "/es/service-areas/anaheim-ca/": {
+    "title": "Diversión de boda. Curiosidad de convención.",
+    "intro": "Anaheim tiene dos ritmos distintos: celebraciones íntimas y convenciones concurridas. Definimos la experiencia según público y horario.",
+    "places": [
+      {
+        "name": "The Colony House",
+        "url": "https://colonyhouseanaheim.com/events/",
+        "body": "The Colony House celebra bodas, recepciones y eventos empresariales en Anaheim. Coordinaríamos la ubicación y horarios de retratos con tu organizador."
+      },
+      {
+        "name": "Anaheim Convention Center",
+        "url": "https://www.anaheim.net/facilities/facility/details/Anaheim-Convention-Center-432",
+        "body": "Para un evento en Anaheim Convention Center, comparte nombre de feria, dimensiones y manual del expositor. Así evaluaremos una activación de marca sin suponer permiso automático para entretenimiento externo."
+      }
+    ]
+  },
+  "/es/service-areas/orange-county-ca/": {
+    "title": "Recuerdos de Orange County con identidad local.",
+    "intro": "Desde cumpleaños científicos en Santa Ana hasta recepciones de aviación, Orange County ofrece mucha inspiración. El tema del evento puede orientar el retrato.",
+    "places": [
+      {
+        "name": "Discovery Cube Orange County",
+        "url": "https://www.discoverycube.org/orange-county/visit/",
+        "body": "Discovery Cube Orange County, en Santa Ana, anuncia opciones de cumpleaños. Un retrato de científico o explorador puede encajar con un homenajeado amante de la ciencia; cualquier servicio externo requiere aprobación."
+      },
+      {
+        "name": "Lyon Air Museum",
+        "url": "https://lyonairmuseum.org/facilityrental/",
+        "body": "Lyon Air Museum alquila instalaciones para eventos. Un retrato inspirado en aviación podría complementar la reunión; revisaríamos distribución y acceso con el museo."
+      }
+    ]
+  },
+  "/es/service-areas/san-diego-ca/": {
+    "title": "Energía de aviación. Un recuerdo con personalidad.",
+    "intro": "San Diego tiene recintos y eventos aeronáuticos reconocidos que inspiran temas memorables. Creamos propuestas según espacio y requisitos reales.",
+    "places": [
+      {
+        "name": "San Diego Air & Space Museum",
+        "url": "https://sandiegoairandspace.org/plan-your-event/overview",
+        "body": "El museo ofrece espacios para bodas, recepciones, convenciones y otras reuniones. Podemos explorar un retrato de piloto o astronauta, con líneas suficientemente sencillas para el plan acordado."
+      },
+      {
+        "name": "MCAS Miramar Air Show",
+        "url": "https://miramarairshow.com/",
+        "body": "Miramar Air Show se celebra en MCAS Miramar, San Diego. Cualquier activación necesitaría aprobación y revisión de accesos y requisitos; mencionarlo no significa que seamos expositores."
+      }
+    ]
+  },
+  "/es/service-areas/sacramento-ca/": {
+    "title": "De cumpleaños de cuento a festivales gastronómicos.",
+    "intro": "Sacramento reúne fiestas familiares y una fuerte identidad gastronómica y agrícola. Podemos explorar retratos personales para tus invitados y ocasión.",
+    "places": [
+      {
+        "name": "Fairytale Town",
+        "url": "https://www.fairytaletown.org/birthday-parties/",
+        "body": "Fairytale Town ofrece cumpleaños en la zona de Land Park, Sacramento. Un retrato de cuento podría encajar con permiso del recinto y fotos guiadas por padres."
+      },
+      {
+        "name": "Sacramento Farm-to-Fork events",
+        "url": "https://www.visitsacramento.com/restaurants-and-drinks/farm-to-fork/",
+        "body": "Los eventos Farm-to-Fork de Visit Sacramento celebran gastronomía y agricultura regional. Para una activación autorizada o reunión gastronómica independiente, podríamos explorar recuerdos de chef o granja."
+      }
+    ]
+  },
+  "/es/service-areas/modesto-ca/": {
+    "title": "Espíritu de autos clásicos. Rostros únicos.",
+    "intro": "Modesto combina celebraciones históricas y cultura Graffiti. Comparte tu tema y daremos forma a una idea de retrato.",
+    "places": [
+      {
+        "name": "McHenry Mansion",
+        "url": "https://mchenrymansion.org/rental/",
+        "body": "McHenry Mansion alquila espacios en Modesto para bodas y reuniones. En ese entorno histórico, coordinaríamos una estación compacta y una ubicación adecuada con el recinto."
+      },
+      {
+        "name": "Graffiti Summer",
+        "url": "https://www.modestogov.com/1350/Graffiti-Summer",
+        "body": "Graffiti Summer de Modesto celebra los autos clásicos con eventos comunitarios. Un retrato de conductor con un auto sencillo podría encajar en una activación autorizada o tu propia fiesta de club automovilístico."
+      }
+    ]
+  }
+}

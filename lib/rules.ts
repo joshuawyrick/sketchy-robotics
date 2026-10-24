@@ -1,0 +1,3 @@
+export function privateOvernightCharge(miles:number|null,nights:number|null,type='private'):{amount:number|null;review:boolean}{if(type!=='private')return{amount:null,review:true};if(miles===null||nights===null||!Number.isFinite(miles)||miles<0||!Number.isInteger(nights)||nights<0)return{amount:null,review:true};return{amount:miles>140&&nights>0?500*nights:0,review:false}}
+export const leadStates=['new','qualified','awaiting_details','quoted','follow_up','won','lost','archived'] as const;
+export function safeSource(value:string){try{const url=new URL(value,'https://sketchyrobotics.com');return url.pathname.startsWith('/')&&!url.pathname.startsWith('//')?url.pathname.slice(0,200):'/'}catch{return'/'}}

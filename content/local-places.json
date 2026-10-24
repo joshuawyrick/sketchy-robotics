@@ -1,0 +1,316 @@
+{
+  "/service-areas/bakersfield-ca/": {
+    "title": "A little Bakersfield character. A lot of personality.",
+    "intro": "From a museum wedding to a family celebration, our hometown gives a portrait theme plenty of personality. Tell us where you are celebrating and we will plan our robots around the space.",
+    "places": [
+      {
+        "name": "Kern County Museum",
+        "url": "https://kerncountymuseum.org/weddings-events-venue-rentals/",
+        "body": "The museum offers wedding and event rentals among its historic settings. For a celebration here, we would explore a vintage-inspired portrait theme and a drawing station that leaves guest walkways clear."
+      },
+      {
+        "name": "CALM Zoo",
+        "url": "https://calmzoo.org/events/",
+        "body": "CALM is a familiar Bakersfield family destination with community and seasonal events. A wildlife-inspired keepsake concept could suit a family gathering; any on-site activation would need the zoo’s approval."
+      },
+      {
+        "name": "The Willows at CALM",
+        "url": "https://willowsatcalm.org/weddings/",
+        "body": "The Willows offers weddings within CALM. If it is on your venue shortlist, ask us about fitting a portrait experience into the reception timeline, subject to venue approval."
+      }
+    ]
+  },
+  "/service-areas/paso-robles-ca/": {
+    "title": "Wine-country celebrations, with a Sketchy twist.",
+    "intro": "Paso can mean a vineyard reception or a busy fairground gathering. Those are very different portrait experiences, so we start with the setting and your guest flow.",
+    "places": [
+      {
+        "name": "CASS Winery",
+        "url": "https://www.casswines.com/private-events/",
+        "body": "CASS offers private events in Paso Robles wine country. For a vineyard celebration, we can discuss simple wine-country artwork and a sheltered drawing area away from food and drink service."
+      },
+      {
+        "name": "Paso Robles Event Center & California Mid-State Fair",
+        "url": "https://www.midstatefair.com/event-center/",
+        "body": "The Event Center is home to the California Mid-State Fair and offers event spaces. A fairground activation calls for a clear queue, a realistic daily portrait plan and organizer-approved vendor access."
+      },
+      {
+        "name": "Firestone Walker Invitational Beer Festival",
+        "url": "https://www.firestonewalker.com/event/invitational-beer-festival/",
+        "body": "Firestone Walker lists its Invitational Beer Festival at the Paso Robles Event Center. For a brewery-hosted party or an organizer-approved activation, we could explore a simple craft-beer-inspired portrait theme and a pickup system that keeps the tasting experience moving."
+      }
+    ]
+  },
+  "/service-areas/san-luis-obispo-ca/": {
+    "title": "Very SLO. A little unexpected.",
+    "intro": "SLO celebrations can go from the unmistakable Madonna Inn to a distillery event space. Bring that personality into the portrait theme while keeping the drawings clean and simple.",
+    "places": [
+      {
+        "name": "Madonna Inn",
+        "url": "https://www.madonnainn.com/weddings-events",
+        "body": "Madonna Inn hosts weddings and events in San Luis Obispo. We would plan a portrait station around your reception layout so guests can watch our robots without crowding the dance floor."
+      },
+      {
+        "name": "Rod & Hammer Rock",
+        "url": "https://rhgatherings.com/therock",
+        "body": "Rod & Hammer Rock offers multiple event spaces in SLO. A music-inspired portrait direction could be a fun conversation starter for a private gathering, with artwork and placement agreed in advance."
+      }
+    ]
+  },
+  "/service-areas/visalia-ca/": {
+    "title": "From museum birthdays to big-room celebrations.",
+    "intro": "Visalia has space for both hands-on family fun and larger gatherings. We help shape the drawing experience around who is coming, how long they will stay and what they want to take home.",
+    "places": [
+      {
+        "name": "ImagineU Children’s Museum",
+        "url": "https://www.imagineumuseum.org/birthdayparties",
+        "body": "ImagineU offers birthday parties in Visalia. For a museum-style celebration, think playful explorer or artist portrait concepts, a parent-led photo step and a drawing area safely separated from active play."
+      },
+      {
+        "name": "Visalia Convention Center",
+        "url": "https://www.visalia.gov/199/Visalia-Convention-Center",
+        "body": "The city’s convention center provides a setting for larger events. For a proposed activation, we would review the floor plan, exhibitor requirements and portrait pickup location with your event team."
+      }
+    ]
+  },
+  "/service-areas/tulare-ca/": {
+    "title": "Tulare gatherings deserve a personal keepsake.",
+    "intro": "Agriculture, community and business meet in Tulare. Whether your event is a private celebration or an exhibitor experience, the portrait plan should suit the pace of the day.",
+    "places": [
+      {
+        "name": "International Agri-Center",
+        "url": "https://events.internationalagricenter.com/",
+        "body": "The International Agri-Center offers facilities for outside events as well as its own programming. Tell us your booked space and timeline so we can discuss a suitable robot station and guest waiting area."
+      },
+      {
+        "name": "World Ag Expo",
+        "url": "https://www.worldagexpo.com/",
+        "body": "World Ag Expo is held in Tulare at the International Agri-Center. If you are planning an exhibitor activation, we can explore an agriculture-inspired portrait concept; participation and booth use require organizer approval."
+      }
+    ]
+  },
+  "/service-areas/tehachapi-ca/": {
+    "title": "Mountain-town celebrations with character.",
+    "intro": "A vineyard wedding and a community festival need different setups. In Tehachapi, we would work with your planner on shelter, level surfaces and a comfortable place to watch the drawing happen.",
+    "places": [
+      {
+        "name": "Oak & Vine Weddings",
+        "url": "https://www.oakandvinewedding.com/",
+        "body": "Oak & Vine offers a vineyard and barn wedding setting in Tehachapi. A simple mountain or vineyard motif could personalize the keepsake without adding unnecessary drawing complexity."
+      },
+      {
+        "name": "Tehachapi Mountain Festival",
+        "url": "https://tehachapimountainfestival.com/",
+        "body": "The Mountain Festival is a recognizable Tehachapi community celebration. For an approved festival activation, we would plan how people join the queue and collect portraits while keeping the event moving."
+      }
+    ]
+  },
+  "/service-areas/fresno-ca/": {
+    "title": "Family fun meets a bigger event canvas.",
+    "intro": "Fresno-area celebrations range from zoo birthdays to garden weddings. We can help turn the setting into a portrait idea, then confirm the practical details with your planner.",
+    "places": [
+      {
+        "name": "Fresno Chaffee Zoo",
+        "url": "https://fcz.org/events/",
+        "body": "Fresno Chaffee Zoo offers birthday parties and private events. Animal-inspired portrait concepts could complement a family celebration, with any outside entertainment subject to the zoo’s rules and approval."
+      },
+      {
+        "name": "Wolf Lakes Park — nearby Sanger",
+        "url": "https://www.wolflakespark.com/weddings-receptions",
+        "body": "Wolf Lakes Park is a wedding and reception venue in Sanger, serving the wider Fresno area. For a lakeside or garden celebration, we would ask about a sheltered, level station location and reception timing."
+      }
+    ]
+  },
+  "/service-areas/clovis-ca/": {
+    "title": "A Clovis celebration, with a little Western flair.",
+    "intro": "Clovis gives hosts a natural starting point for Western-inspired keepsakes, while nearby wedding venues offer a different pace. We adapt the concept to your occasion.",
+    "places": [
+      {
+        "name": "Clovis Rodeo",
+        "body": "The Clovis Rodeo is a defining local event. For a separately approved sponsor or vendor experience, simple Western portrait themes could give guests something personal to take home.",
+        "url": "https://www.clovisrodeo.com/"
+      },
+      {
+        "name": "Wolf Lakes Park — nearby Sanger",
+        "url": "https://www.wolflakespark.com/",
+        "body": "Couples considering venues around Clovis may also look at Wolf Lakes Park in Sanger. If you are booking there, share your reception schedule so we can discuss where portraits might fit, pending venue approval."
+      }
+    ]
+  },
+  "/service-areas/santa-maria-ca/": {
+    "title": "A little Central Coast. A little cowboy.",
+    "intro": "Santa Maria has its own celebration style, from historic hotel gatherings to rodeo traditions. Your portrait theme can reflect that local flavor without making the drawing overly elaborate.",
+    "places": [
+      {
+        "name": "Historic Santa Maria Inn",
+        "url": "https://santamariainn.com/weddings/",
+        "body": "The Santa Maria Inn hosts weddings and quinceañeras. We can discuss a portrait experience for your reception, with space, power and the drawing schedule coordinated through your planner."
+      },
+      {
+        "name": "Santa Maria Elks Rodeo & Parade",
+        "url": "https://www.elksrec.com/",
+        "body": "The Elks Rodeo and Parade are recognizable Santa Maria traditions. Western-themed keepsakes could be explored for an approved activation or a separately hosted rodeo-themed party; we do not imply participation in the event."
+      }
+    ]
+  },
+  "/service-areas/lancaster-ca/": {
+    "title": "Big Antelope Valley energy. Personal little keepsakes.",
+    "intro": "Lancaster’s event scene includes the AV fairgrounds and the California Poppy Festival. For a community crowd or a private celebration, we plan portraits around the way guests actually move.",
+    "places": [
+      {
+        "name": "AV Fair & Event Center",
+        "url": "https://avfair.com/",
+        "body": "The AV Fair & Event Center is in Lancaster. If your event is booked here, send us the assigned space and organizer requirements so we can review the setup before proposing an activation."
+      },
+      {
+        "name": "California Poppy Festival",
+        "url": "https://avfair.com/california-poppy-festival/",
+        "body": "The California Poppy Festival takes place at the AV Fair & Event Center. A simple poppy accent could inspire a local keepsake concept, while any festival participation remains subject to organizer acceptance."
+      }
+    ]
+  },
+  "/service-areas/palmdale-ca/": {
+    "title": "From reception tables to birthday adventures.",
+    "intro": "Palmdale offers very different ways to celebrate. Our robots need a dry, stable working area, so the venue and exact party space matter as much as the theme.",
+    "places": [
+      {
+        "name": "Rancho Vista Golf Club",
+        "url": "https://www.ranchovistagolfclub.com/weddings/",
+        "body": "Rancho Vista Golf Club offers weddings in Palmdale. For a reception, we can explore a portrait station that works alongside dinner, speeches and dancing, with placement approved by the venue."
+      },
+      {
+        "name": "DryTown Water Park",
+        "url": "https://www.drytownwaterpark.com/p/getconnected/rentals/party-packages",
+        "body": "DryTown lists party packages for its operating season. For any proposed portrait add-on, first confirm outside-vendor permission and an appropriate dry area away from pools and splash zones; water-park admission alone does not include our service."
+      }
+    ]
+  },
+  "/service-areas/santa-clarita-ca/": {
+    "title": "Newhall charm. Something new to talk about.",
+    "intro": "Santa Clarita celebrations have room for both modern receptions and Western-inspired fun. A personal pen-drawn keepsake can take its cue from your occasion.",
+    "places": [
+      {
+        "name": "Hart & Main",
+        "url": "https://hartandmain.com/",
+        "body": "Hart & Main is a wedding and event venue in Downtown Newhall with indoor and outdoor options. We would coordinate a portrait station with your planner and the chosen reception layout."
+      },
+      {
+        "name": "Santa Clarita Cowboy Festival",
+        "url": "https://cowboyfestival.org/",
+        "body": "The Cowboy Festival brings Western entertainment to Hart Park in Old Town Newhall. For a separately approved activation or private Western-themed gathering, we can discuss simple cowboy portrait concepts."
+      }
+    ]
+  },
+  "/service-areas/ventura-ca/": {
+    "title": "Coastal celebrations with a personal finish.",
+    "intro": "Ventura can mean a garden gathering or a lively fairground event. We help you turn that setting into a keepsake while planning for shelter, power and a clear pickup point.",
+    "places": [
+      {
+        "name": "Ventura Botanical Gardens",
+        "body": "The gardens offer settings for weddings and other events. A botanical accent could suit your portrait theme; we would review the exact accessible, level setup location with the venue before confirming service.",
+        "url": "https://venturabotanicalgardens.org/plan-your-event/"
+      },
+      {
+        "name": "California Strawberry Festival",
+        "body": "The California Strawberry Festival is held at the Ventura County Fairgrounds. A strawberry-themed keepsake is one possible concept for an organizer-approved activation; check the official festival site for current details.",
+        "url": "https://castrawberryfestival.org/"
+      }
+    ]
+  },
+  "/service-areas/los-angeles-ca/": {
+    "title": "Give an LA gathering a little more character.",
+    "intro": "Los Angeles museum venues offer distinctive settings for celebrations. We can explore portrait concepts that complement your event while keeping the drawing station practical and unobtrusive.",
+    "places": [
+      {
+        "name": "Natural History Museum of Los Angeles County",
+        "url": "https://nhmlac.org/host-event/private-events-nhm",
+        "body": "The museum in Exposition Park hosts weddings, corporate gatherings and other private events. An explorer-inspired portrait could be a playful fit for your celebration, subject to artwork review and venue approval."
+      },
+      {
+        "name": "La Brea Tar Pits",
+        "url": "https://live-tarpits.nhmlac.org/host-event/private-events-la-brea-tar-pits",
+        "body": "The museum at La Brea Tar Pits offers private event options on Miracle Mile. For a proposed reception experience, we would coordinate the station location, load-in and guest flow with the event team."
+      }
+    ]
+  },
+  "/service-areas/anaheim-ca/": {
+    "title": "Wedding-day fun. Convention-floor curiosity.",
+    "intro": "Anaheim has two very different event rhythms: intimate celebrations and busy convention gatherings. We scope the portrait experience around your audience and schedule.",
+    "places": [
+      {
+        "name": "The Colony House",
+        "url": "https://colonyhouseanaheim.com/events/",
+        "body": "The Colony House hosts weddings, receptions and corporate events in Anaheim. For a celebration here, we would work with your planner on the portrait station’s position and timing."
+      },
+      {
+        "name": "Anaheim Convention Center",
+        "url": "https://www.anaheim.net/facilities/facility/details/Anaheim-Convention-Center-432",
+        "body": "For an event at the Anaheim Convention Center, share your show name, booth dimensions and exhibitor manual. We can then assess a branded portrait activation without assuming that outside entertainment is automatically permitted."
+      }
+    ]
+  },
+  "/service-areas/orange-county-ca/": {
+    "title": "Orange County keepsakes with a sense of place.",
+    "intro": "From science-themed birthdays in Santa Ana to aviation-inspired receptions, Orange County gives guests plenty to get excited about. Your event theme can help shape the portrait concept.",
+    "places": [
+      {
+        "name": "Discovery Cube Orange County",
+        "url": "https://www.discoverycube.org/orange-county/visit/",
+        "body": "Discovery Cube Orange County in Santa Ana lists birthday-party options. A scientist or explorer portrait concept could suit a science-loving guest of honor, with any outside service requiring the venue’s approval."
+      },
+      {
+        "name": "Lyon Air Museum",
+        "url": "https://lyonairmuseum.org/facilityrental/",
+        "body": "Lyon Air Museum offers facility rentals for events. An aviation-inspired portrait concept could complement a gathering here; the exact station layout and vendor access would be reviewed with the museum."
+      }
+    ]
+  },
+  "/service-areas/san-diego-ca/": {
+    "title": "Aviation energy. A keepsake with personality.",
+    "intro": "San Diego has recognizable aviation venues and events that can inspire a memorable theme. We build proposals around the actual event space and organizer requirements.",
+    "places": [
+      {
+        "name": "San Diego Air & Space Museum",
+        "url": "https://sandiegoairandspace.org/plan-your-event/overview",
+        "body": "The museum offers space for weddings, receptions, conventions and other gatherings. We can explore a pilot or astronaut portrait concept for your event, keeping the linework simple enough for the agreed drawing plan."
+      },
+      {
+        "name": "MCAS Miramar Air Show",
+        "url": "https://miramarairshow.com/",
+        "body": "The Miramar Air Show is held at MCAS Miramar in San Diego. Any proposed activation would require organizer approval and a review of access and vendor requirements; mentioning the show does not mean we are exhibiting there."
+      }
+    ]
+  },
+  "/service-areas/sacramento-ca/": {
+    "title": "Storybook birthdays to food-festival energy.",
+    "intro": "Sacramento brings together family celebrations and a strong food-and-farm event identity. We can explore a portrait theme that feels personal to your guests and occasion.",
+    "places": [
+      {
+        "name": "Fairytale Town",
+        "url": "https://www.fairytaletown.org/birthday-parties/",
+        "body": "Fairytale Town offers birthday packages in Sacramento’s Land Park area. A storybook-inspired portrait concept could suit a family celebration, with the venue’s permission and a parent-led photo process."
+      },
+      {
+        "name": "Sacramento Farm-to-Fork events",
+        "url": "https://www.visitsacramento.com/restaurants-and-drinks/farm-to-fork/",
+        "body": "Visit Sacramento’s Farm-to-Fork events celebrate the region’s food and agriculture. For an approved sponsor activation or a separately hosted food-themed gathering, we could explore chef or farm-inspired keepsakes."
+      }
+    ]
+  },
+  "/service-areas/modesto-ca/": {
+    "title": "Classic-car spirit. One-of-a-kind faces.",
+    "intro": "Modesto offers a distinctive mix of historic celebrations and Graffiti culture. Bring your theme and we will help shape a portrait idea around it.",
+    "places": [
+      {
+        "name": "McHenry Mansion",
+        "url": "https://mchenrymansion.org/rental/",
+        "body": "McHenry Mansion offers venue rental in Modesto for weddings and gatherings. For a historic-setting celebration, we would coordinate a compact drawing station and an appropriate setup location with the venue."
+      },
+      {
+        "name": "Graffiti Summer",
+        "url": "https://www.modestogov.com/1350/Graffiti-Summer",
+        "body": "Modesto’s Graffiti Summer celebrates classic-car culture through community events. A driver-inspired portrait with a simple car motif could suit a separately approved activation or your own car-club celebration."
+      }
+    ]
+  }
+}

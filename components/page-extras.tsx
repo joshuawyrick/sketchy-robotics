@@ -1,0 +1,4 @@
+import {ContextualFAQ} from './contextual-faq';
+import {pages,livePages,quoteUrl,travel} from '../lib/content';
+export function Directory({type}:{type:'guides'|'service-areas'}){const list=livePages.filter(p=>p.url.startsWith('/'+type+'/')&&p.url!=='/'+type+'/');return <section className="wrap directory section"><h2>{type==='guides'?'Make a plan worth celebrating.':'Find your event location.'}</h2><p>{type==='guides'?'Practical guides to portraits, guest flow and memorable events.':'Travel requests from our Bakersfield base, subject to availability and venue review.'}</p><div className="directory-grid">{list.map(p=><a href={p.url} key={p.url}><strong>{p.h1}</strong><span>{p.meta}</span><b>Explore →</b></a>)}</div></section>}
+export function PageFAQ({url}:{url:string}){return <ContextualFAQ url={url}/>;}

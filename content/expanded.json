@@ -1,0 +1,849 @@
+{
+  "/corporate-holiday-parties/": [
+    {
+      "title": "Give the party a personal encore.",
+      "body": "A robot portrait station gives coworkers something to discover between the welcome drinks, dinner and speeches. The finished pen drawing is a personal reminder of the celebration, whether your event is a small team gathering or a larger company party."
+    },
+    {
+      "title": "Work around the moments everyone shares.",
+      "body": "Share the run of show before choosing operating hours. A station should pause or adjust when employees need to hear awards, leadership remarks or announcements. Set pickup away from the bar so finished paper stays dry."
+    },
+    {
+      "title": "Holiday flavor, without a complicated drawing.",
+      "body": "Seasonal accessories, a simple border or a company message can be discussed during artwork approval. Keep the linework light enough for the tested drawing workflow. Artwork and branded stationery are confirmed in the proposal."
+    },
+    {
+      "title": "One team, several stations?",
+      "body": "Additional robots may help distribute demand, but staffing, capture and pickup can still become bottlenecks. Plan station count around tested cycle times and the arrival pattern, including guests who all arrive immediately after dinner."
+    },
+    {
+      "title": "What to include in your brief.",
+      "body": "Corporate events receive individually scoped pricing and travel. Send the date, location, attendance, operating window and branding deadline.",
+      "items": [
+        "Venue and vendor access times",
+        "Company or agency contact",
+        "Desired number of robots",
+        "Guest participation goal",
+        "Artwork approval owner"
+      ]
+    }
+  ],
+  "/graduation-parties/": [
+    {
+      "title": "A new chapter. A keepsake with character.",
+      "body": "Celebrate the graduate with a portrait experience guests can watch being made. A simple themed body, cap or activity can make the artwork feel connected to the milestone while keeping the ink drawing manageable."
+    },
+    {
+      "title": "Keep the graduate in the celebration.",
+      "body": "Place the station where guests can discover it without pulling the host away from photos, food and speeches. Discuss whether the graduate gets a scheduled portrait slot and how other guests join the queue."
+    },
+    {
+      "title": "Plan for families and younger guests.",
+      "body": "Agree on an adult-managed photo process and guardian permissions before the party. A group portrait needs separate review: adding faces can change preparation and drawing time."
+    },
+    {
+      "title": "Home, hall or outdoor gathering?",
+      "body": "Share table space, power access and loading details. Outdoor parties need a stable, sheltered drawing area and a weather backup. Confirm paper pickup and protection from drinks."
+    },
+    {
+      "title": "Request a graduation quote.",
+      "body": "Tell us your date, city, guest count, preferred hours and theme. An inquiry starts planning; it does not hold the date or guarantee a portrait for every guest."
+    }
+  ],
+  "/fundraisers-and-galas/": [
+    {
+      "title": "An icebreaker with a tangible takeaway.",
+      "body": "A robot making a guest portrait can create a natural conversation point at a gala or fundraising reception. Keep it connected to the evening’s purpose and positioned so it complements the main program."
+    },
+    {
+      "title": "Protect the fundraising moments.",
+      "body": "Coordinate station hours with the auction, appeal and speeches. A portrait queue should never block sponsor displays, entrances or accessible routes. Plan a discreet pause when the room needs everyone’s attention."
+    },
+    {
+      "title": "Explore a sponsor-supported experience.",
+      "body": "A sponsor may wish to underwrite the station or approved stationery. This is a proposal option, not an included sponsorship program. Confirm recognition, artwork permissions and who approves the final presentation."
+    },
+    {
+      "title": "Choose a clear guest flow.",
+      "body": "Decide whether portraits are included for guests, offered by invitation or connected to a separately arranged event activity. Payment, fundraising receipts and donation handling require an agreed organizer-led process."
+    },
+    {
+      "title": "Scope the evening together.",
+      "body": "Share your cause, venue, schedule, guest count and sponsor requirements. Accessibility, portrait capacity, staffing and travel are reviewed before a custom proposal is issued."
+    }
+  ],
+  "/venues/zoos/": [
+    {
+      "title": "Wild memories, drawn in ink.",
+      "body": "An original animal-themed body or setting can connect a portrait to a zoo visit. Keep backgrounds simple and use venue-approved species illustrations; the concept is a personalized souvenir pilot, not a live animal interaction."
+    },
+    {
+      "title": "Outdoor paths and indoor retail",
+      "body": "A sheltered retail location can protect paper and equipment from dust, moisture and changing conditions. Review visitor circulation, stroller access and safe separation from animal areas."
+    },
+    {
+      "title": "Who looks after the station?",
+      "body": "Agree on paper replenishment, guest help, restart procedures and maintenance ownership. Test demand around arrivals and departures rather than assuming a constant flow."
+    },
+    {
+      "title": "Define the pilot before the promise.",
+      "body": "Payment handling, unattended operation, privacy, support response and commercial terms are subject to feasibility review. Agree on a limited pilot with named responsibilities, visitor feedback and a documented stop or recovery process."
+    },
+    {
+      "title": "Start with your venue.",
+      "body": "Send the visitor profile, approximate attendance range, available space, power, staff availability and intended pilot dates. We can then discuss a scoped partnership rather than assume a particular revenue outcome."
+    }
+  ],
+  "/venues/science-centers/": [
+    {
+      "title": "Where engineering meets a personal keepsake.",
+      "body": "A visible pen-drawing arm can help illustrate how digital paths become physical movement. A science-center pilot could pair a portrait with a short explanation of motors, coordinates and creative computing."
+    },
+    {
+      "title": "Make the explanation accessible",
+      "body": "Use short descriptions, clear viewing boundaries and a route that works for seated visitors. Staff-led demonstrations and paid souvenir sessions may have different timing and staffing needs."
+    },
+    {
+      "title": "Separate demonstration from retail",
+      "body": "A demonstration can focus on one prepared drawing; a personalized session also needs photo capture, preparation and collection. Test those workflows separately before choosing a daily operating plan."
+    },
+    {
+      "title": "Define the pilot before the promise.",
+      "body": "Payment handling, unattended operation, privacy, support response and commercial terms are subject to feasibility review. Agree on a limited pilot with named responsibilities, visitor feedback and a documented stop or recovery process."
+    },
+    {
+      "title": "Start with your venue.",
+      "body": "Send the visitor profile, approximate attendance range, available space, power, staff availability and intended pilot dates. We can then discuss a scoped partnership rather than assume a particular revenue outcome."
+    }
+  ],
+  "/venues/amusement-parks/": [
+    {
+      "title": "A souvenir with your guest in the story.",
+      "body": "Explore an original park-themed portrait that guests can watch being drawn. Branded characters, park marks and themed environments need approval and appropriate rights before inclusion."
+    },
+    {
+      "title": "High foot traffic needs a real queue plan",
+      "body": "Map entry, capture, viewing and pickup inside the permitted footprint. Protect ride exits, emergency paths and retail access. Multiple robots do not remove a shared capture or payment bottleneck."
+    },
+    {
+      "title": "Plan for a full operating day",
+      "body": "Review weather protection, staff shifts, consumables, cleaning, downtime and service access. Pilot testing should include busy periods and recovery from interrupted sessions before unattended operation is considered."
+    },
+    {
+      "title": "Define the pilot before the promise.",
+      "body": "Payment handling, unattended operation, privacy, support response and commercial terms are subject to feasibility review. Agree on a limited pilot with named responsibilities, visitor feedback and a documented stop or recovery process."
+    },
+    {
+      "title": "Start with your venue.",
+      "body": "Send the visitor profile, approximate attendance range, available space, power, staff availability and intended pilot dates. We can then discuss a scoped partnership rather than assume a particular revenue outcome."
+    }
+  ],
+  "/service-areas/fresno-ca/": [
+    {
+      "title": "Receptions and expo-floor conversations",
+      "body": "Decide whether the portrait station is a wedding activity or part of an exhibitor’s engagement plan. The same paper keepsake can serve different goals, but booth rules and reception timelines lead to different setups."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "For an expo request, include move-in windows, exhibitor rules and the booth footprint. For a reception, include dinner and dancing times and the expected arrival pattern."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Fresno. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/clovis-ca/": [
+    {
+      "title": "A personal touch for a family celebration",
+      "body": "A wedding reception or milestone party works best when guests can discover the drawing station without missing the main celebration. Discuss individual portraits, themed bodies and a pickup area before deciding on hours."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "Ask the venue where vendors unload and whether a sheltered station can remain in place through dinner. At a home event, confirm the working surface, cable route and adult-managed photo flow."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Clovis. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/santa-maria-ca/": [
+    {
+      "title": "A keepsake for the reception crowd",
+      "body": "Plan the portrait station around your wedding or private party rather than assuming continuous participation. Photos, speeches and meals all change when guests are ready to join."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "For any outdoor layout, discuss wind protection and a dry pickup area. Send the actual venue address and setup windows so travel and installation can be reviewed together."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Santa Maria. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/lancaster-ca/": [
+    {
+      "title": "Something unexpected for your celebration",
+      "body": "A stationary drawing robot gives guests a close view of an ink portrait being made. It suits a planned activity area with enough room for capture, viewing and pickup."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "For exposed event spaces, ask about shelter, stable tables and an indoor alternative. Share the location of outlets and the route guests will use around the equipment."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Lancaster. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/palmdale-ca/": [
+    {
+      "title": "Portraits that join the party",
+      "body": "Wedding guests and family groups can enjoy a personalized keepsake without making the drawing station the center of the whole evening. Choose hours that fit entrances, food service and the program."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "Coordinate venue access and the portrait queue with your host or planner. If children participate, establish guardian permissions and a clear adult-managed photo process."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Palmdale. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/santa-clarita-ca/": [
+    {
+      "title": "From private celebrations to brand moments",
+      "body": "Tell us whether you are planning a wedding, a company gathering or a promotional activation. Private-event requests and corporate briefs use different proposal paths so the right logistics are reviewed."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "Share the event footprint and loading window. Agency requests should also include brand approval deadlines, staff roles and any restrictions on attendee data collection."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Santa Clarita. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/ventura-ca/": [
+    {
+      "title": "A little ink for a coastal celebration",
+      "body": "A guest portrait can be a personal wedding favor or a conversation starter at a private event. Choose a station location that is comfortable to visit and keeps drawings safe until collection."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "If your venue uses an outdoor area, ask about breeze, moisture and an indoor backup. The robot, paper and power need a protected setup; a scenic location alone does not establish suitability."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Ventura. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/los-angeles-ca/": [
+    {
+      "title": "Give the activation a personal takeaway",
+      "body": "Agencies and brand teams can brief a robotic portrait activation around guest conversations, campaign artwork and physical keepsakes. Multiple robots and multi-day programs are scoped individually."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "Include loading appointments, building access, floor plans, approved operating hours and exhibitor or venue requirements. Identify who owns creative approval and who manages the attendee queue."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Los Angeles. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/anaheim-ca/": [
+    {
+      "title": "A booth moment worth stopping for",
+      "body": "Convention and trade-show requests need a clear engagement objective. Plan how attendees enter, participate, speak with your team and collect their portrait without spilling into an aisle."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "Send the exhibitor manual, booth dimensions, show schedule, move-in windows and power arrangements. Discuss capture capacity and staffing as well as the requested number of robots."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Anaheim. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/orange-county-ca/": [
+    {
+      "title": "Choose the experience around your event",
+      "body": "A wedding portrait station and an agency activation both create personal keepsakes, but their guest flows and success measures differ. Start with the occasion and the actual city and venue."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "For private events, share the reception timeline. For brands, share campaign objectives, artwork review dates and reporting needs. Regional requests are evaluated from the venue address rather than a county-wide assumption."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Orange County. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/san-diego-ca/": [
+    {
+      "title": "Conference conversations and wedding keepsakes",
+      "body": "A conference activation may run across several days; a wedding may have a short window between ceremony and dinner. Those differences guide staffing, portrait scope and travel planning."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "Provide setup and breakdown dates separately from operating dates. For a multi-day event, review secure equipment storage, replenishment, staff breaks and a clear pickup policy."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not San Diego. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/sacramento-ca/": [
+    {
+      "title": "A travel-ready event brief",
+      "body": "Sacramento requests are considered from our Bakersfield base. A detailed brief helps establish whether the schedule, travel and drawing scope work for your wedding, company event or convention."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "Include all required attendance dates, setup access and the operating window. Corporate travel is quoted individually; private-event overnight requirements are reviewed from verified road mileage and the actual schedule."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Sacramento. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/service-areas/modesto-ca/": [
+    {
+      "title": "A personalized reason to gather",
+      "body": "A robot portrait station can fit a family celebration or a business event when there is a suitable viewing area and realistic drawing plan. Tell us who will participate and what you want them to take home."
+    },
+    {
+      "title": "Plan from the actual venue.",
+      "body": "For a private venue, discuss table placement and guest movement. For a company event, identify branding needs and the person approving artwork. Confirm the final configuration before advertising a particular output quantity."
+    },
+    {
+      "title": "Bakersfield-based. Available by proposal.",
+      "body": "Sketchy Robotics is based in Bakersfield, not Modesto. We consider travel requests subject to date availability, staffing and venue suitability. This page describes a proposed service area; it does not claim a local office or a completed local event."
+    },
+    {
+      "title": "Simple drawings. Realistic expectations.",
+      "body": "Portrait detail, number of faces, capture time and equipment configuration all affect output. We confirm the artwork and a tested capacity plan before booking. The site’s illustrations are concepts rather than evidence of completed events."
+    },
+    {
+      "title": "Travel and your next step.",
+      "body": "For private non-corporate events, a $500 charge applies per required overnight night only when the venue is more than 140 verified driving miles from Bakersfield AND the schedule requires an overnight stay. Distance alone does not trigger the charge. Corporate travel is quoted individually. Send your date, venue, hours and guest count to start."
+    }
+  ],
+  "/guides/wedding-photo-booth-alternatives/": [
+    {
+      "title": "Choose what you want guests to do.",
+      "body": "Start with the experience: a shared activity, a personal keepsake, a performance to watch or a place to talk. The right alternative fits your guests and schedule. A beautiful setup is not useful if its queue blocks dinner or most guests cannot take part."
+    },
+    {
+      "title": "Twelve directions to explore.",
+      "body": "Use this shortlist to compare formats, then ask each provider about availability, setup and actual capacity.",
+      "items": [
+        "Robot-drawn portraits: visible drawing and a physical keepsake",
+        "Live caricaturist: direct interaction with an artist",
+        "Live watercolor portraits: a different medium and finish",
+        "Silhouette cutting: profile-based paper art",
+        "Audio guestbook: spoken messages for the couple",
+        "Instant-camera guestbook: photos and handwritten notes",
+        "Roaming photographer: photographs during the celebration",
+        "Table trivia: a seated group activity",
+        "Lawn games: space-dependent outdoor participation",
+        "Live acoustic music: atmosphere without a participation queue",
+        "Calligraphy station: personalized names or short messages",
+        "Collaborative guest artwork: a shared piece for the couple"
+      ]
+    },
+    {
+      "title": "Compare space and timing honestly.",
+      "body": "A guestbook can be self-paced; a portrait requires a session. Lawn games need room and suitable conditions. A performance has a start and finish. Ask who provides tables, lighting, supplies, staffing and a weather backup, and compare the full cost rather than only an hourly headline."
+    },
+    {
+      "title": "Make participation comfortable.",
+      "body": "Offer a seated option and a way to enjoy the activity without being photographed. Avoid assuming older guests or non-dancers all want the same experience. Your planner can place quiet activities away from speakers and keep accessible routes open."
+    },
+    {
+      "title": "Where robotic portraits fit.",
+      "body": "A robot station combines a visible mechanical process with a paper drawing. It works best with approved simple artwork, a managed queue and a realistic participation target. Confirm the drawing plan before promising a keepsake for every guest."
+    }
+  ],
+  "/guides/unique-wedding-entertainment-bakersfield/": [
+    {
+      "title": "Start with the room and the people.",
+      "body": "For a Bakersfield or Kern County wedding, build entertainment around the reception timeline and the needs of your actual venue. Think about where guests wait, where they can sit and what happens between ceremony, dinner and dancing."
+    },
+    {
+      "title": "Mix one shared moment with one optional activity.",
+      "body": "A live performance or couple-focused game can bring everyone together; a portrait station, guestbook or tabletop activity lets guests participate at their own pace. Too many scheduled attractions can compete with the meal and speeches."
+    },
+    {
+      "title": "Outdoor plans need a protected alternative.",
+      "body": "Ask your venue about shade, wind exposure, outlets, stable surfaces and an indoor backup. Confirm who can move equipment and when a weather decision must be made. Paper portraits need dry storage and a pickup spot away from drinks."
+    },
+    {
+      "title": "Use a practical vendor brief.",
+      "body": "This is a planning guide, not a verified local vendor directory. Ask shortlisted providers for written details and relevant examples.",
+      "items": [
+        "Exact venue address and vendor access",
+        "Setup and breakdown windows",
+        "Power and table requirements",
+        "Operating hours and breaks",
+        "Participation capacity and accessibility",
+        "Travel, staffing and cancellation terms"
+      ]
+    },
+    {
+      "title": "Add a portrait station with purpose.",
+      "body": "Sketchy Robotics is based in Bakersfield. Share the guest count, event date and available hours so we can review whether one or multiple robots fit the celebration. Illustrative artwork on this site is not a record of a past local wedding."
+    }
+  ],
+  "/guides/paso-robles-vineyard-wedding-entertainment/": [
+    {
+      "title": "Let the venue rules shape the shortlist.",
+      "body": "For a Paso Robles or Templeton vineyard wedding, ask the venue about sound limits, approved equipment locations and vendor access before selecting entertainment. A seated activity, guestbook or portrait station can complement the setting without requiring a stage."
+    },
+    {
+      "title": "Give outdoor activities a fallback.",
+      "body": "Confirm shade, wind protection, stable tables and a dry indoor alternative. An attractive view does not guarantee suitable conditions for electronics or paper. Agree on the person who makes the weather decision and the deadline for doing so."
+    },
+    {
+      "title": "Coordinate the property’s transitions.",
+      "body": "Ceremony, cocktail hour and dinner may use different spaces. Ask whether guests and vendors move together, whether the station stays in one place and when artwork can be collected. Avoid placing a queue across a path between reception areas."
+    },
+    {
+      "title": "Ask about rural access early.",
+      "body": "Provide the actual entrance and loading instructions, not only the venue name. Review parking, outlet locations, cable routing and network needs. Any remote location requirements must be confirmed with the venue and service provider."
+    },
+    {
+      "title": "Keep the favor simple.",
+      "body": "A guest portrait can become the take-home item as well as the activity. Review line complexity, personalization and paper protection. Sketchy Robotics travels from Bakersfield; travel and required overnight stays are reviewed with the proposal."
+    }
+  ],
+  "/guides/slo-wedding-cocktail-hour-ideas/": [
+    {
+      "title": "A short window needs low-friction choices.",
+      "body": "For a San Luis Obispo wedding cocktail hour, choose activities guests can join without missing drinks, greetings or the move to dinner. An audio guestbook, instant-camera station, seated conversation prompts or a small musical performance each creates a different pace."
+    },
+    {
+      "title": "Treat sixty minutes as a schedule constraint.",
+      "body": "A one-hour cocktail hour is not sixty uninterrupted production minutes. Arrival, introductions, transitions and equipment pauses reduce usable time. For portraits, use tested full-session timing and decide whether drawing or pickup can continue into the reception."
+    },
+    {
+      "title": "Plan for the actual setting.",
+      "body": "An indoor lounge and an exposed outdoor area have different sound, power and weather needs. Ask about wind, moisture and a protected backup. Keep any artwork collection area dry and close enough for guests to find easily."
+    },
+    {
+      "title": "Avoid a bottleneck before dinner.",
+      "body": "Position the activity so the line does not block the bar, restrooms or reception entrance. A host-managed queue can help, but do not promise a return-time system unless the chosen provider supports it."
+    },
+    {
+      "title": "Brief the planner together.",
+      "body": "Share vendor access, operating time, power, table needs and the pickup plan. A robot portrait station is one option among several; select it when the visible drawing process and physical keepsake fit your guests."
+    }
+  ],
+  "/guides/live-wedding-guest-portraits/": [
+    {
+      "title": "Three different ways to make a portrait.",
+      "body": "A live artist interprets the guest directly in their medium. A drawing robot follows prepared paths with a physical pen. A digital portrait or AI filter creates an image that may be displayed or printed. Ask which process and finished item a provider actually offers."
+    },
+    {
+      "title": "The whole session determines capacity.",
+      "body": "Photo capture, artwork preparation, guest approval if offered, pen drawing, paper changes and collection can all take time. A pen-only demonstration is not enough to establish real event throughput."
+    },
+    {
+      "title": "Count sessions and people separately.",
+      "body": "A couple’s portrait may include two people but occupy one longer session. Decide whether the goal is a number of completed drawings or a number of guests represented. Do not assume group portraits fit the same cycle time as individual drawings."
+    },
+    {
+      "title": "Plan the queue and pickup.",
+      "body": "Decide how guests join, whether they must stay nearby and where finished work is collected. Preregistration can help estimate interest, but it does not create capacity or reserve a drawing unless the provider agrees to that process."
+    },
+    {
+      "title": "Use a measured planning estimate.",
+      "body": "The capacity calculator on this site accepts your tested session time, station count and allowance for downtime. Its result is a planning estimate, not a guaranteed Sketchy Robotics production rate. Confirm the actual event scope in writing."
+    }
+  ],
+  "/guides/personalized-wedding-favors/": [
+    {
+      "title": "Choose what personalization means.",
+      "body": "A name on a standard object, a shared wedding design and an individual portrait are different levels of personalization. Decide which matters to your guests before comparing prices and production requirements."
+    },
+    {
+      "title": "Compare the full cost per participant.",
+      "body": "Include setup, staff, travel, operating time, packaging and any artwork preparation. For a live experience, divide the total by the realistic number of completed keepsakes rather than the entire guest list unless everyone is guaranteed to receive one."
+    },
+    {
+      "title": "A large guest list needs a distribution plan.",
+      "body": "At a 200-person wedding, a portrait station does not automatically mean 200 drawings. Decide whether couples share portraits, participation is optional or multiple stations are appropriate. Confirm the measured capacity before printing promises on invitations."
+    },
+    {
+      "title": "Protect finished paper.",
+      "body": "Ask about paper dimensions, drying or handling guidance, sleeves and collection. Keep pickup away from food and drinks and tell guests how to carry their keepsake home. Frames and packaging are not assumed inclusions."
+    },
+    {
+      "title": "Make the experience fit the celebration.",
+      "body": "A live portrait can replace a favor, complement another favor or serve a smaller participation group. Discuss simple themes and personalization early so the artwork and event flow are approved together."
+    }
+  ],
+  "/guides/wedding-caricature-artist-cost/": [
+    {
+      "title": "Compare scope before comparing totals.",
+      "body": "An artist or robotic portrait proposal may be priced by time, staffing, equipment, artwork scope or a combination. This guide does not publish market averages or unapproved starting prices. Request an itemized quote for your actual date and venue."
+    },
+    {
+      "title": "What changes the proposal?",
+      "body": "A short local reception and a multi-day destination event need different resources. These are useful quote components, not a sample price offer.",
+      "items": [
+        "Operating time plus setup and breakdown",
+        "Number of artists or robot stations",
+        "Operators and guest-flow staffing",
+        "Portrait detail and number of faces",
+        "Branding, stationery or approved custom artwork",
+        "Travel and required accommodation",
+        "Packaging and other explicitly included supplies"
+      ]
+    },
+    {
+      "title": "Ask what output the quote supports.",
+      "body": "A lower hourly fee can still produce a higher cost per completed portrait if sessions are longer. Compare tested end-to-end timing, staffing and the number of usable operating minutes. Neither human artists nor robots are automatically faster."
+    },
+    {
+      "title": "Sketchy Robotics private-event travel.",
+      "body": "For non-corporate events, the overnight charge is $500 per required night only when the venue is more than 140 verified driving miles from Bakersfield AND an overnight stay is required. Distance alone does not trigger it. Corporate travel is quoted separately."
+    },
+    {
+      "title": "Get a quote you can actually compare.",
+      "body": "Send the same date, venue, hours, guest count and portrait brief to each provider. Ask for inclusions, exclusions, cancellation terms and any capacity assumptions in writing before deciding."
+    }
+  ],
+  "/guides/robot-vs-human-caricature-artist/": [
+    {
+      "title": "Choose the interaction you want.",
+      "body": "A human caricaturist brings live interpretation and conversation. A robot makes the movement of a real pen part of the attraction, using artwork prepared as drawing paths. Both can offer a physical keepsake, but the guest experience differs."
+    },
+    {
+      "title": "Style and flexibility matter.",
+      "body": "A human artist may adapt their drawing in the moment. A robotic workflow needs artwork that converts reliably into lines and fits the approved process. Review actual samples and ask how changes, group portraits and themed bodies are handled."
+    },
+    {
+      "title": "Speed requires evidence.",
+      "body": "There is no universal winner on speed. Measure the full session, including capture, preparation, drawing and paper handling. Compare equivalent detail and number of faces rather than a simple robot demo against a detailed hand portrait."
+    },
+    {
+      "title": "Consider setup and photo handling.",
+      "body": "Robots need a stable equipment area and power; all providers need a usable workspace. A photo-based workflow also needs a clear explanation of capture, storage and deletion. Ask how guests who decline a photo can still enjoy the event."
+    },
+    {
+      "title": "Make the decision around your event.",
+      "body": "Select a human artist for their individual style and interaction, a robot for the visible technology and pen-drawing process, or a mix if your budget and layout support it. Confirm inclusions, staffing and realistic output before booking."
+    }
+  ],
+  "/guides/wedding-entertainment-for-non-dancers/": [
+    {
+      "title": "Make participation optional.",
+      "body": "Guests may prefer conversation, a quieter space or a seated activity for many reasons. Offer choices without labeling a group or requiring everyone to perform. A comfortable place to watch can be as valuable as an activity."
+    },
+    {
+      "title": "Build a mix of quiet and social options.",
+      "body": "Consider a guestbook, table prompts, couple trivia, instant photos, a collaborative artwork or a portrait experience. A seated music area can offer atmosphere without asking guests to join the dance floor."
+    },
+    {
+      "title": "Check access beyond the entrance.",
+      "body": "Review seating, table height, route width, cable placement and the ability to hear instructions. Ask providers whether a guest can participate while seated and whether a companion can assist. Specific accommodations should be confirmed with the venue."
+    },
+    {
+      "title": "Keep the schedule flexible.",
+      "body": "An activity that runs only during dinner may exclude guests; one that runs only during speeches may distract them. Identify a window when participation is easy and give guests clear directions for collecting any keepsake."
+    },
+    {
+      "title": "Where portraits fit.",
+      "body": "A robot station offers both something to watch and a physical takeaway. Participation can be limited by session time, so agree on a realistic plan rather than assuming every non-dancer will want or receive a drawing."
+    }
+  ],
+  "/guides/quinceanera-entertainment-ideas/": [
+    {
+      "title": "Keep the celebration’s traditions at the center.",
+      "body": "Plan optional activities around the entrance, formal dances, dinner and family moments. The best addition gives guests something to enjoy without competing with the quinceañera’s main program."
+    },
+    {
+      "title": "Give guests a choice of pace.",
+      "body": "Music, a photo experience, a message book, simple table games and a live portrait station each serve a different purpose. Choose a small mix that fits the ages, room and available time rather than crowding the schedule."
+    },
+    {
+      "title": "A personal keepsake can be part of the fun.",
+      "body": "A simple themed portrait lets guests take home something connected to themselves and the event. Confirm available themes, line complexity and any name or date personalization before promising a particular design."
+    },
+    {
+      "title": "Parents and planners should agree on the photo flow.",
+      "body": "Discuss guardian permission, who supervises younger guests, whether images are retained and how finished drawings are collected. Event participation and permission to use a guest’s photo in marketing are separate questions."
+    },
+    {
+      "title": "Start with a clear budget brief.",
+      "body": "Share the date, venue, attendance and desired hours. Ask for staffing, setup, travel and capacity assumptions. Spanish information is available on our quinceañera page; tell us your preferred language for follow-up so support can be confirmed."
+    }
+  ],
+  "/guides/trade-show-booth-attraction-ideas/": [
+    {
+      "title": "Attention needs a next step.",
+      "body": "Decide whether the booth activity should start conversations, demonstrate a product or provide a memorable takeaway. A crowd alone does not establish qualified interest or sales value."
+    },
+    {
+      "title": "Compare the participation formats.",
+      "body": "A product challenge, hands-on demonstration, scheduled expert session, interactive quiz or personalized portrait can each give attendees a reason to stop. Choose an activity your staff can explain quickly and connect to your offering."
+    },
+    {
+      "title": "Design the path through the booth.",
+      "body": "Map entry, participation, conversation and pickup inside the permitted footprint. Include accessible routes, power, staff positions and a place for guests to wait. Confirm show rules rather than assuming aisle queues are allowed."
+    },
+    {
+      "title": "Measure different outcomes separately.",
+      "body": "Count observed participants, completed interactions, opt-in leads and follow-up outcomes separately. Do not treat portraits completed as qualified leads. Agree on the collection method and guest consent before the show."
+    },
+    {
+      "title": "Plan robotic portraits from tested timing.",
+      "body": "Multiple robots can increase drawing capacity, but shared photo capture and artwork preparation may limit the overall system. Brief the desired station count, full operating schedule and target audience so staffing and output can be reviewed."
+    }
+  ],
+  "/guides/personalized-trade-show-giveaways/": [
+    {
+      "title": "A useful giveaway has a reason to travel home.",
+      "body": "Compare a personalized item with a standard giveaway based on the audience and your campaign. A portrait creates a personal connection; a practical item may be useful daily. Neither guarantees recall or a sale."
+    },
+    {
+      "title": "Match the format to the interaction.",
+      "body": "Engraving, calligraphy, custom patches, printed photos and robot-drawn portraits have different equipment, setup and session requirements. Ask providers about safety, power, artwork approval and real production time."
+    },
+    {
+      "title": "Calculate cost per completed interaction.",
+      "body": "Use the full activation cost, including staffing, travel and consumables, divided by realistic completed interactions. Keep this separate from cost per qualified lead and any eventual sales return."
+    },
+    {
+      "title": "Branding should support the keepsake.",
+      "body": "Discuss approved logos, borders, messages or stationery before the event. Tiny details can be difficult to reproduce with a pen. Brand assets and usage permissions must be supplied and approved as part of the brief."
+    },
+    {
+      "title": "Personalization adds steps.",
+      "body": "Collect only the information needed for the agreed experience, and distinguish participation from marketing opt-in. A request for a portrait should not silently enroll an attendee in a mailing list. Review the queue and pickup process with your booth team."
+    }
+  ],
+  "/guides/museum-interactive-souvenir-kiosks/": [
+    {
+      "title": "Begin with the visitor journey.",
+      "body": "A souvenir kiosk should fit how visitors move through the museum. Identify whether it belongs near retail, an exhibit exit or a supervised demonstration area, and consider families, groups and seated visitors."
+    },
+    {
+      "title": "Treat the robot workflow as a pilot.",
+      "body": "Photo capture, artwork preparation, payment, pen drawing and collection all need validation. Unattended operation is not assumed. Define a limited trial with staff support, clear boundaries and a recovery plan."
+    },
+    {
+      "title": "Model costs without inventing revenue.",
+      "body": "Use measured pilot demand and actual costs. Track completed sessions, failed sessions, refunds if applicable, paper and pen usage, staff minutes, maintenance and any licensing costs. Revenue share and rental terms require a separate agreement."
+    },
+    {
+      "title": "Make photo handling explicit.",
+      "body": "Document what is collected, why it is needed, where it is processed and when it is deleted. Review guardian permissions for children and make marketing use a separate choice. Obtain appropriate privacy and legal review for the final operation."
+    },
+    {
+      "title": "Set a scale-or-stop decision.",
+      "body": "Before launch, agree on pilot duration, guest feedback measures, uptime observations, support responsibilities and acceptable recovery behavior. Expansion should follow evidence from the pilot rather than a promised return."
+    }
+  ],
+  "/guides/robot-caricature-party-planning-checklist/": [
+    {
+      "title": "Confirm the basics before the invitation promises.",
+      "body": "Start with date, address, attendance, operating hours and portrait scope. Check availability and review actual workflow capacity before announcing that every guest will receive a drawing."
+    },
+    {
+      "title": "Walk the setup with your venue.",
+      "body": "Use this checklist during planning.",
+      "items": [
+        "Stable table and protected equipment area",
+        "Reliable power and safe cable route",
+        "Photo capture and viewing positions",
+        "Accessible queue and pickup area",
+        "Loading access and setup window",
+        "Shelter and indoor weather backup",
+        "Paper storage away from food and drinks"
+      ]
+    },
+    {
+      "title": "Ask what the workflow needs.",
+      "body": "Network requirements depend on the final capture and artwork setup. Confirm whether Wi-Fi, cellular service or an offline process is needed; do not assume a fully offline workflow. Ask who handles interruptions and whether restart time is included in the capacity plan."
+    },
+    {
+      "title": "Plan guest information and permissions.",
+      "body": "Explain the photo process, any review step, estimated waiting approach and collection method. Review guardian involvement for younger guests. Separate marketing consent from permission needed to create the portrait."
+    },
+    {
+      "title": "Finish with a written event brief.",
+      "body": "List the approved artwork, staffing, station count, travel terms and venue responsibilities. Identify an event-day contact and what happens if power, weather or access prevents operation. The final proposal should resolve these questions before booking."
+    }
+  ],
+  "/guides/event-guest-portrait-capacity/": [
+    {
+      "title": "Use the complete session time.",
+      "body": "Time a representative run from photo capture through completed paper handling. Include preparation and any guest review step. Test the same style and number of faces you expect at the event; a simple smiley-face demo is not a portrait benchmark."
+    },
+    {
+      "title": "Estimate with an explicit allowance.",
+      "body": "A useful starting model is operating minutes × station count × usable-time fraction ÷ measured minutes per session. Round down to whole sessions. If capture or preparation is shared, its measured capacity can be lower than the drawing capacity and becomes the practical limit."
+    },
+    {
+      "title": "Sessions are not the same as guests.",
+      "body": "A two-person drawing represents two guests but may take longer than an individual portrait. Use a measured average for the intended mix, or calculate each session type separately. Do not multiply individual-session capacity by two without testing."
+    },
+    {
+      "title": "Arrival patterns change the experience.",
+      "body": "An event can have enough theoretical capacity and still develop a long queue if guests arrive together after dinner. Plan opening times, staff breaks, the final intake cutoff and how completed drawings are collected."
+    },
+    {
+      "title": "Try your own measured inputs.",
+      "body": "The calculator below starts empty so it does not imply a promised production rate. Results are planning estimates and do not reserve equipment or guarantee output. Confirm station configuration, staffing and capacity in your event proposal."
+    }
+  ],
+  "/es/entretenimiento-bodas/": [
+    {
+      "title": "Un recuerdo que se dibuja frente a tus invitados.",
+      "body": "Sketchy Robotics combina la preparación de retratos con ayuda de inteligencia artificial y brazos robóticos que dibujan con un bolígrafo real sobre papel. Tus invitados pueden observar el proceso y llevarse un recuerdo personal de tu boda."
+    },
+    {
+      "title": "Planeamos el momento contigo.",
+      "body": "Durante el cóctel o la recepción, la estación puede ser una actividad opcional. Coordinamos su ubicación con el servicio de comida, los discursos y la pista de baile."
+    },
+    {
+      "title": "Rostros con personalidad, líneas sencillas.",
+      "body": "Los dibujos usan líneas de tinta y detalles seleccionados para el proceso robótico. Podemos conversar sobre temas como música, deportes o celebraciones. Los estilos, la personalización y los retratos de varias personas se revisan antes de confirmar la propuesta. Las imágenes de este sitio son conceptos ilustrativos, no muestras verificadas de producción."
+    },
+    {
+      "title": "Espacio, fotos y participación.",
+      "body": "Revisamos una mesa estable, electricidad, protección contra el clima y un espacio accesible para observar y recoger los dibujos. Cuando participan menores, se debe acordar el permiso de sus padres o tutores y un proceso supervisado por adultos. El uso de fotos para publicidad requiere una decisión aparte."
+    },
+    {
+      "title": "Salimos de Bakersfield.",
+      "body": "Consideramos eventos en California según disponibilidad y logística, incluidos Paso Robles, San Luis Obispo, Visalia, Tulare y Tehachapi. Para eventos privados no corporativos, se aplica un cargo de $500 por cada noche requerida únicamente si el lugar está a más de 140 millas de conducción verificadas desde Bakersfield Y se necesita pasar la noche. La distancia por sí sola no activa el cargo. Los viajes corporativos se cotizan por separado."
+    },
+    {
+      "title": "Pide una propuesta para tu fecha.",
+      "body": "Comparte la fecha, ciudad, lugar, cantidad aproximada de invitados, horario y tema. La cantidad de retratos depende del tiempo medido del proceso completo y de la configuración acordada. Enviar una consulta no reserva la fecha. Indica que prefieres seguimiento en español para que podamos confirmar la asistencia disponible."
+    }
+  ],
+  "/es/entretenimiento-quinceaneras/": [
+    {
+      "title": "Un recuerdo que se dibuja frente a tus invitados.",
+      "body": "Sketchy Robotics combina la preparación de retratos con ayuda de inteligencia artificial y brazos robóticos que dibujan con un bolígrafo real sobre papel. Tus invitados pueden observar el proceso y llevarse un recuerdo personal de la quinceañera."
+    },
+    {
+      "title": "Planeamos el momento contigo.",
+      "body": "Organiza la estación alrededor de la entrada, los bailes formales, la cena y los momentos familiares. La actividad debe acompañar la celebración y dejar libres las rutas de acceso."
+    },
+    {
+      "title": "Rostros con personalidad, líneas sencillas.",
+      "body": "Los dibujos usan líneas de tinta y detalles seleccionados para el proceso robótico. Podemos conversar sobre temas como música, deportes o celebraciones. Los estilos, la personalización y los retratos de varias personas se revisan antes de confirmar la propuesta. Las imágenes de este sitio son conceptos ilustrativos, no muestras verificadas de producción."
+    },
+    {
+      "title": "Espacio, fotos y participación.",
+      "body": "Revisamos una mesa estable, electricidad, protección contra el clima y un espacio accesible para observar y recoger los dibujos. Cuando participan menores, se debe acordar el permiso de sus padres o tutores y un proceso supervisado por adultos. El uso de fotos para publicidad requiere una decisión aparte."
+    },
+    {
+      "title": "Salimos de Bakersfield.",
+      "body": "Consideramos eventos en California según disponibilidad y logística, incluidos Paso Robles, San Luis Obispo, Visalia, Tulare y Tehachapi. Para eventos privados no corporativos, se aplica un cargo de $500 por cada noche requerida únicamente si el lugar está a más de 140 millas de conducción verificadas desde Bakersfield Y se necesita pasar la noche. La distancia por sí sola no activa el cargo. Los viajes corporativos se cotizan por separado."
+    },
+    {
+      "title": "Pide una propuesta para tu fecha.",
+      "body": "Comparte la fecha, ciudad, lugar, cantidad aproximada de invitados, horario y tema. La cantidad de retratos depende del tiempo medido del proceso completo y de la configuración acordada. Enviar una consulta no reserva la fecha. Indica que prefieres seguimiento en español para que podamos confirmar la asistencia disponible."
+    }
+  ]
+}
